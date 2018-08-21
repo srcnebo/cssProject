@@ -431,7 +431,7 @@ footer {
     border: none;
     background: none;
     color: var(--buttonGb);
-    font-weight: bold;
+    font-weight: 700;
   }
 
   /* ===== Hero Header Media Query ===== */
